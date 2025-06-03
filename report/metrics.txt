@@ -1,0 +1,15 @@
+Logistic Regression
+Accuracy: 0.430
+Precision: 0.441
+Recall: 0.520
+
+Decision Tree
+Accuracy: 0.420
+Precision: 0.423
+Recall: 0.440
+
+Random Forest
+Accuracy: 0.430
+Precision: 0.426
+Recall: 0.400
+
